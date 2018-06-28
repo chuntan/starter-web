@@ -13,4 +13,5 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 
-asdasdasd test
+### Copyright
+Carson
