@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Carson Tan carson.tan@gmail.com
 
 # THANKS
 
