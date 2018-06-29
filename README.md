@@ -14,4 +14,4 @@ Sample website with plenty of files for demos
 Please fork this repo.
 
 ### Copyright
-Carson
+Carson 2018
